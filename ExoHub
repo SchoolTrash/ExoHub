@@ -1,3 +1,7 @@
 if game.PlaceId == 155615604 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SchoolTrash/ExoHub/main/prison%20life"))()
 end
+
+if game.PlaceId == 155615604 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SchoolTrash/ExoHub/main/Impossible%20Glass%20Bridge%20Obby"))()
+end
